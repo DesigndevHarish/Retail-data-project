@@ -1,0 +1,601 @@
+product_id,brand,category,product_name,regular_price_inr,currency,active
+PRD00001,Apple,Tablets,Apple Android Tablet 282,107196,INR,True
+PRD00002,Bose,Headphones,Bose Noise Cancelling Headphones 105,49765,INR,True
+PRD00003,OnePlus,Tablets,OnePlus Android Tablet 433,87397,INR,True
+PRD00004,HP,Laptops,HP Business Laptop 239,87314,INR,True
+PRD00005,GoPro,Cameras,GoPro Mirrorless Camera 204,167127,INR,True
+PRD00006,Agaro,Vacuum Cleaners,Agaro Upright Vacuum Cleaner 460,19446,INR,True
+PRD00007,Garmin,Smart Watches,Garmin Fitness Smart Watch 715,22926,INR,True
+PRD00008,Whirlpool,Washing Machines,Whirlpool Top Load Washing Machine 221,38379,INR,True
+PRD00009,LG,Refrigerators,LG Double Door Refrigerator 100,69797,INR,True
+PRD00010,Whirlpool,Refrigerators,Whirlpool Side by Side Refrigerator 45,125791,INR,True
+PRD00011,Karcher,Vacuum Cleaners,Karcher Cordless Vacuum Cleaner 945,68774,INR,True
+PRD00012,LG,Washing Machines,LG Fully Automatic Washing Machine 850,56427,INR,True
+PRD00013,OnePlus,Tablets,OnePlus Gaming Tablet 197,85674,INR,True
+PRD00014,Dyson,Vacuum Cleaners,Dyson Cordless Vacuum Cleaner 234,48336,INR,True
+PRD00015,Sony,Gaming,Sony Gaming Controller 390,16238,INR,True
+PRD00016,Logitech,Gaming,Logitech Gaming Keyboard 380,24319,INR,True
+PRD00017,Samsung,Refrigerators,Samsung Side by Side Refrigerator 960,111988,INR,True
+PRD00018,Apple,Tablets,Apple Professional Tablet 747,80010,INR,True
+PRD00019,Bose,Headphones,Bose Gaming Headset 277,26367,INR,True
+PRD00020,OnePlus,Tablets,OnePlus Professional Tablet 333,99733,INR,True
+PRD00021,Dell,Laptops,Dell Business Laptop 411,112694,INR,True
+PRD00022,Sony,Gaming,Sony Gaming Controller 898,77341,INR,True
+PRD00023,Eureka,Vacuum Cleaners,Eureka Robot Vacuum Cleaner 512,47954,INR,True
+PRD00024,IFB,Washing Machines,IFB Front Load Washing Machine 143,52718,INR,True
+PRD00025,Boat,Headphones,Boat Premium Earbuds 270,36822,INR,True
+PRD00026,Agaro,Vacuum Cleaners,Agaro Upright Vacuum Cleaner 598,63839,INR,True
+PRD00027,Whirlpool,Washing Machines,Whirlpool Front Load Washing Machine 522,36131,INR,True
+PRD00028,LG,Air Conditioners,LG 1 Ton Split AC 157,39371,INR,True
+PRD00029,Samsung,Tablets,Samsung Student Tablet 66,88172,INR,True
+PRD00030,IFB,Washing Machines,IFB Fully Automatic Washing Machine 542,79348,INR,True
+PRD00031,Razer,Gaming,Razer Gaming Console 699,18014,INR,True
+PRD00032,Sony,Cameras,Sony Action Camera 301,49242,INR,True
+PRD00033,Samsung,Washing Machines,Samsung Top Load Washing Machine 977,18425,INR,True
+PRD00034,Eureka,Vacuum Cleaners,Eureka Robot Vacuum Cleaner 935,38271,INR,True
+PRD00035,Motorola,Mobile Phones,Motorola Ultra Smartphone 520,175496,INR,True
+PRD00036,Samsung,Smart Watches,Samsung Premium Smart Watch 781,51009,INR,True
+PRD00037,OnePlus,TVs,OnePlus Mini LED Smart TV 614,20149,INR,True
+PRD00038,Godrej,Refrigerators,Godrej Double Door Refrigerator 952,34662,INR,True
+PRD00039,Whirlpool,Refrigerators,Whirlpool French Door Refrigerator 247,27592,INR,True
+PRD00040,Apple,Smart Watches,Apple Fitness Smart Watch 836,65699,INR,True
+PRD00041,Xiaomi,Mobile Phones,Xiaomi Pro Smartphone 676,41657,INR,True
+PRD00042,Blue Star,Air Conditioners,Blue Star 1.5 Ton Split AC 541,59741,INR,True
+PRD00043,Fossil,Smart Watches,Fossil Premium Smart Watch 774,72686,INR,True
+PRD00044,Philips,Vacuum Cleaners,Philips Handheld Vacuum Cleaner 688,31148,INR,True
+PRD00045,Lenovo,Tablets,Lenovo Student Tablet 463,77839,INR,True
+PRD00046,Samsung,Mobile Phones,Samsung Pro Smartphone 347,24784,INR,True
+PRD00047,Acer,Laptops,Acer Professional Laptop 603,90323,INR,True
+PRD00048,Sony,Headphones,Sony Wireless Headphones 647,47889,INR,True
+PRD00049,Dell,Laptops,Dell Business Laptop 881,38234,INR,True
+PRD00050,LG,Refrigerators,LG French Door Refrigerator 686,56500,INR,True
+PRD00051,Samsung,Air Conditioners,Samsung 1.5 Ton Split AC 591,99847,INR,True
+PRD00052,Samsung,Air Conditioners,Samsung Inverter AC 195,78354,INR,True
+PRD00053,Apple,Mobile Phones,Apple Budget Smartphone 434,100876,INR,True
+PRD00054,IFB,Washing Machines,IFB Fully Automatic Washing Machine 690,25100,INR,True
+PRD00055,Apple,Tablets,Apple Android Tablet 746,62772,INR,True
+PRD00056,LG,Refrigerators,LG French Door Refrigerator 195,45112,INR,True
+PRD00057,Fujifilm,Cameras,Fujifilm DSLR Camera 188,130593,INR,True
+PRD00058,Logitech,Gaming,Logitech Gaming Controller 454,12880,INR,True
+PRD00059,Canon,Cameras,Canon Mirrorless Camera 554,190955,INR,True
+PRD00060,HP,Laptops,HP Gaming Laptop 417,73597,INR,True
+PRD00061,Daikin,Air Conditioners,Daikin 1.5 Ton Split AC 925,77565,INR,True
+PRD00062,Dell,Laptops,Dell Student Laptop 400,30565,INR,True
+PRD00063,Logitech,Gaming,Logitech Gaming Keyboard 714,58444,INR,True
+PRD00064,Agaro,Vacuum Cleaners,Agaro Upright Vacuum Cleaner 195,15144,INR,True
+PRD00065,Microsoft,Gaming,Microsoft Gaming Console 754,78914,INR,True
+PRD00066,Canon,Cameras,Canon Action Camera 52,34985,INR,True
+PRD00067,Fossil,Smart Watches,Fossil Premium Smart Watch 984,9455,INR,True
+PRD00068,Canon,Cameras,Canon DSLR Camera 610,37962,INR,True
+PRD00069,Motorola,Mobile Phones,Motorola Pro Smartphone 123,113847,INR,True
+PRD00070,Samsung,Smart Watches,Samsung Fitness Smart Watch 430,12745,INR,True
+PRD00071,OnePlus,Tablets,OnePlus Gaming Tablet 210,44179,INR,True
+PRD00072,Lenovo,Tablets,Lenovo Professional Tablet 406,44814,INR,True
+PRD00073,Hisense,TVs,Hisense QLED Smart TV 324,139858,INR,True
+PRD00074,Apple,Mobile Phones,Apple Budget Smartphone 577,170833,INR,True
+PRD00075,Apple,Mobile Phones,Apple Flagship Smartphone 519,63877,INR,True
+PRD00076,Microsoft,Gaming,Microsoft Gaming Keyboard 901,12016,INR,True
+PRD00077,JBL,Headphones,JBL Bluetooth Earbuds 449,11838,INR,True
+PRD00078,Sony,Cameras,Sony Mirrorless Camera 837,195076,INR,True
+PRD00079,Sony,Cameras,Sony Mirrorless Camera 271,55203,INR,True
+PRD00080,Apple,Mobile Phones,Apple Flagship Smartphone 279,48749,INR,True
+PRD00081,Razer,Gaming,Razer Gaming Controller 209,47942,INR,True
+PRD00082,Lenovo,Tablets,Lenovo Student Tablet 928,42914,INR,True
+PRD00083,HP,Laptops,HP Student Laptop 46,102530,INR,True
+PRD00084,Lenovo,Laptops,Lenovo Gaming Laptop 166,98670,INR,True
+PRD00085,Karcher,Vacuum Cleaners,Karcher Upright Vacuum Cleaner 10,41759,INR,True
+PRD00086,Apple,Mobile Phones,Apple Pro Smartphone 37,151023,INR,True
+PRD00087,Haier,Refrigerators,Haier French Door Refrigerator 131,76333,INR,True
+PRD00088,Lenovo,Laptops,Lenovo Ultrabook Laptop 921,40458,INR,True
+PRD00089,Samsung,Refrigerators,Samsung French Door Refrigerator 106,107416,INR,True
+PRD00090,Haier,Refrigerators,Haier Single Door Refrigerator 636,147642,INR,True
+PRD00091,Philips,Vacuum Cleaners,Philips Robot Vacuum Cleaner 167,61662,INR,True
+PRD00092,TCL,TVs,TCL 4K Smart TV 755,67018,INR,True
+PRD00093,Godrej,Refrigerators,Godrej French Door Refrigerator 164,54970,INR,True
+PRD00094,Dyson,Vacuum Cleaners,Dyson Upright Vacuum Cleaner 40,62158,INR,True
+PRD00095,Samsung,Air Conditioners,Samsung 1.5 Ton Split AC 359,85332,INR,True
+PRD00096,Microsoft,Gaming,Microsoft Gaming Controller 676,6101,INR,True
+PRD00097,Apple,Headphones,Apple Bluetooth Earbuds 886,19758,INR,True
+PRD00098,OnePlus,Mobile Phones,OnePlus Ultra Smartphone 522,176160,INR,True
+PRD00099,Bosch,Washing Machines,Bosch Top Load Washing Machine 119,21617,INR,True
+PRD00100,Microsoft,Gaming,Microsoft Gaming Monitor 40,37795,INR,True
+PRD00101,Xiaomi,Mobile Phones,Xiaomi Budget Smartphone 747,98619,INR,True
+PRD00102,Godrej,Refrigerators,Godrej Double Door Refrigerator 922,70488,INR,True
+PRD00103,Samsung,Smart Watches,Samsung GPS Smart Watch 726,7817,INR,True
+PRD00104,LG,Washing Machines,LG Fully Automatic Washing Machine 704,88575,INR,True
+PRD00105,Philips,Vacuum Cleaners,Philips Handheld Vacuum Cleaner 72,33265,INR,True
+PRD00106,Lenovo,Tablets,Lenovo Gaming Tablet 869,96951,INR,True
+PRD00107,Motorola,Mobile Phones,Motorola Ultra Smartphone 317,140939,INR,True
+PRD00108,Xiaomi,Tablets,Xiaomi Gaming Tablet 714,62743,INR,True
+PRD00109,Razer,Gaming,Razer Gaming Controller 431,28144,INR,True
+PRD00110,Xiaomi,Tablets,Xiaomi Professional Tablet 583,90676,INR,True
+PRD00111,Logitech,Gaming,Logitech Gaming Monitor 312,3053,INR,True
+PRD00112,Microsoft,Gaming,Microsoft Gaming Mouse 622,79019,INR,True
+PRD00113,Lenovo,Tablets,Lenovo Student Tablet 453,67905,INR,True
+PRD00114,Samsung,Tablets,Samsung Student Tablet 923,114036,INR,True
+PRD00115,Philips,Vacuum Cleaners,Philips Cordless Vacuum Cleaner 528,23598,INR,True
+PRD00116,OnePlus,Tablets,OnePlus Gaming Tablet 839,22240,INR,True
+PRD00117,Boat,Headphones,Boat Bluetooth Earbuds 826,16222,INR,True
+PRD00118,Bose,Headphones,Bose Wireless Headphones 251,4528,INR,True
+PRD00119,Blue Star,Air Conditioners,Blue Star 1 Ton Split AC 425,84692,INR,True
+PRD00120,OnePlus,Tablets,OnePlus Professional Tablet 714,104155,INR,True
+PRD00121,IFB,Washing Machines,IFB Top Load Washing Machine 152,49979,INR,True
+PRD00122,Apple,Tablets,Apple Android Tablet 436,112029,INR,True
+PRD00123,Bose,Headphones,Bose Premium Earbuds 52,31944,INR,True
+PRD00124,Nikon,Cameras,Nikon Mirrorless Camera 137,139658,INR,True
+PRD00125,Blue Star,Air Conditioners,Blue Star 2 Ton Split AC 628,83008,INR,True
+PRD00126,Agaro,Vacuum Cleaners,Agaro Upright Vacuum Cleaner 929,59432,INR,True
+PRD00127,Fujifilm,Cameras,Fujifilm DSLR Camera 883,214944,INR,True
+PRD00128,Daikin,Air Conditioners,Daikin 2 Ton Split AC 861,57406,INR,True
+PRD00129,Lenovo,Tablets,Lenovo Student Tablet 245,92149,INR,True
+PRD00130,Logitech,Gaming,Logitech Gaming Console 241,40450,INR,True
+PRD00131,Nintendo,Gaming,Nintendo Gaming Keyboard 83,73798,INR,True
+PRD00132,LG,TVs,LG OLED Smart TV 711,120410,INR,True
+PRD00133,Hisense,TVs,Hisense OLED Smart TV 425,36837,INR,True
+PRD00134,Whirlpool,Washing Machines,Whirlpool Fully Automatic Washing Machine 426,79069,INR,True
+PRD00135,Dell,Laptops,Dell Student Laptop 927,132099,INR,True
+PRD00136,Apple,Smart Watches,Apple Sports Smart Watch 7,64518,INR,True
+PRD00137,Whirlpool,Refrigerators,Whirlpool Single Door Refrigerator 914,131863,INR,True
+PRD00138,Bosch,Washing Machines,Bosch Fully Automatic Washing Machine 820,89582,INR,True
+PRD00139,Samsung,Smart Watches,Samsung Sports Smart Watch 280,30760,INR,True
+PRD00140,IFB,Washing Machines,IFB Front Load Washing Machine 345,68968,INR,True
+PRD00141,Xiaomi,Tablets,Xiaomi Professional Tablet 942,71261,INR,True
+PRD00142,OnePlus,TVs,OnePlus Mini LED Smart TV 929,27069,INR,True
+PRD00143,Bosch,Washing Machines,Bosch Fully Automatic Washing Machine 86,21552,INR,True
+PRD00144,Xiaomi,Tablets,Xiaomi Professional Tablet 187,70515,INR,True
+PRD00145,Lenovo,Laptops,Lenovo Student Laptop 217,115813,INR,True
+PRD00146,Voltas,Air Conditioners,Voltas 2 Ton Split AC 285,74692,INR,True
+PRD00147,Whirlpool,Washing Machines,Whirlpool Front Load Washing Machine 20,79644,INR,True
+PRD00148,Agaro,Vacuum Cleaners,Agaro Cordless Vacuum Cleaner 359,67385,INR,True
+PRD00149,Boat,Headphones,Boat Wireless Headphones 42,44213,INR,True
+PRD00150,Dell,Laptops,Dell Gaming Laptop 637,35342,INR,True
+PRD00151,LG,TVs,LG OLED Smart TV 686,144141,INR,True
+PRD00152,Xiaomi,Mobile Phones,Xiaomi Pro Smartphone 717,129905,INR,True
+PRD00153,Nintendo,Gaming,Nintendo Gaming Controller 797,18012,INR,True
+PRD00154,Sony,TVs,Sony 4K Smart TV 27,171698,INR,True
+PRD00155,Razer,Gaming,Razer Gaming Mouse 965,54990,INR,True
+PRD00156,Philips,Vacuum Cleaners,Philips Cordless Vacuum Cleaner 708,43803,INR,True
+PRD00157,Samsung,Tablets,Samsung Android Tablet 792,101382,INR,True
+PRD00158,Razer,Gaming,Razer Gaming Console 802,77177,INR,True
+PRD00159,Lenovo,Laptops,Lenovo Professional Laptop 678,142296,INR,True
+PRD00160,LG,Refrigerators,LG Side by Side Refrigerator 870,21658,INR,True
+PRD00161,IFB,Washing Machines,IFB Front Load Washing Machine 984,74822,INR,True
+PRD00162,Godrej,Refrigerators,Godrej French Door Refrigerator 181,77080,INR,True
+PRD00163,Agaro,Vacuum Cleaners,Agaro Handheld Vacuum Cleaner 828,45364,INR,True
+PRD00164,Fujifilm,Cameras,Fujifilm Digital Camera 846,134183,INR,True
+PRD00165,Agaro,Vacuum Cleaners,Agaro Handheld Vacuum Cleaner 873,26122,INR,True
+PRD00166,Sony,Headphones,Sony Bluetooth Earbuds 250,31043,INR,True
+PRD00167,Blue Star,Air Conditioners,Blue Star Inverter AC 30,69092,INR,True
+PRD00168,Voltas,Air Conditioners,Voltas 1.5 Ton Split AC 218,88904,INR,True
+PRD00169,Whirlpool,Refrigerators,Whirlpool Side by Side Refrigerator 902,56655,INR,True
+PRD00170,Garmin,Smart Watches,Garmin Fitness Smart Watch 971,69715,INR,True
+PRD00171,Sony,Headphones,Sony Noise Cancelling Headphones 417,48690,INR,True
+PRD00172,Blue Star,Air Conditioners,Blue Star 1.5 Ton Split AC 662,87402,INR,True
+PRD00173,Karcher,Vacuum Cleaners,Karcher Upright Vacuum Cleaner 18,56965,INR,True
+PRD00174,OnePlus,Mobile Phones,OnePlus Pro Smartphone 709,114011,INR,True
+PRD00175,JBL,Headphones,JBL Premium Earbuds 485,25684,INR,True
+PRD00176,GoPro,Cameras,GoPro Action Camera 764,131543,INR,True
+PRD00177,Sony,Cameras,Sony Action Camera 465,204249,INR,True
+PRD00178,Nintendo,Gaming,Nintendo Gaming Keyboard 124,33217,INR,True
+PRD00179,Philips,Vacuum Cleaners,Philips Handheld Vacuum Cleaner 761,12835,INR,True
+PRD00180,Nikon,Cameras,Nikon DSLR Camera 757,76723,INR,True
+PRD00181,Voltas,Air Conditioners,Voltas 2 Ton Split AC 853,38176,INR,True
+PRD00182,JBL,Headphones,JBL Noise Cancelling Headphones 184,25150,INR,True
+PRD00183,Sony,Gaming,Sony Gaming Monitor 281,19591,INR,True
+PRD00184,HP,Laptops,HP Professional Laptop 715,106581,INR,True
+PRD00185,Hisense,TVs,Hisense LED Smart TV 894,46892,INR,True
+PRD00186,Acer,Laptops,Acer Ultrabook Laptop 491,153049,INR,True
+PRD00187,Voltas,Air Conditioners,Voltas 1.5 Ton Split AC 259,31734,INR,True
+PRD00188,LG,Air Conditioners,LG 1 Ton Split AC 504,77521,INR,True
+PRD00189,Xiaomi,Mobile Phones,Xiaomi 5G Smartphone 153,47774,INR,True
+PRD00190,Garmin,Smart Watches,Garmin Fitness Smart Watch 122,34530,INR,True
+PRD00191,Fujifilm,Cameras,Fujifilm DSLR Camera 536,223343,INR,True
+PRD00192,IFB,Washing Machines,IFB Top Load Washing Machine 881,56974,INR,True
+PRD00193,Fossil,Smart Watches,Fossil GPS Smart Watch 636,76531,INR,True
+PRD00194,Acer,Laptops,Acer Business Laptop 641,84470,INR,True
+PRD00195,JBL,Headphones,JBL Wireless Headphones 246,11792,INR,True
+PRD00196,OnePlus,TVs,OnePlus 4K Smart TV 3,61034,INR,True
+PRD00197,IFB,Washing Machines,IFB Fully Automatic Washing Machine 299,79592,INR,True
+PRD00198,Dell,Laptops,Dell Ultrabook Laptop 720,104112,INR,True
+PRD00199,LG,Air Conditioners,LG 1.5 Ton Split AC 807,59675,INR,True
+PRD00200,OnePlus,Tablets,OnePlus Professional Tablet 118,65723,INR,True
+PRD00201,Nikon,Cameras,Nikon DSLR Camera 847,89633,INR,True
+PRD00202,Samsung,TVs,Samsung 4K Smart TV 812,63495,INR,True
+PRD00203,Razer,Gaming,Razer Gaming Monitor 450,40828,INR,True
+PRD00204,Google,Mobile Phones,Google Ultra Smartphone 966,113515,INR,True
+PRD00205,Razer,Gaming,Razer Gaming Monitor 449,67722,INR,True
+PRD00206,Xiaomi,Mobile Phones,Xiaomi 5G Smartphone 753,121253,INR,True
+PRD00207,Haier,Refrigerators,Haier Side by Side Refrigerator 94,23390,INR,True
+PRD00208,Boat,Headphones,Boat Premium Earbuds 974,39977,INR,True
+PRD00209,Apple,Laptops,Apple Ultrabook Laptop 782,40546,INR,True
+PRD00210,TCL,TVs,TCL Mini LED Smart TV 453,190789,INR,True
+PRD00211,Microsoft,Gaming,Microsoft Gaming Monitor 651,60132,INR,True
+PRD00212,LG,Air Conditioners,LG Inverter AC 419,70607,INR,True
+PRD00213,Whirlpool,Refrigerators,Whirlpool Double Door Refrigerator 165,132424,INR,True
+PRD00214,Godrej,Refrigerators,Godrej Single Door Refrigerator 679,57777,INR,True
+PRD00215,Bosch,Washing Machines,Bosch Front Load Washing Machine 91,77614,INR,True
+PRD00216,Whirlpool,Refrigerators,Whirlpool Side by Side Refrigerator 994,35194,INR,True
+PRD00217,Bosch,Washing Machines,Bosch Front Load Washing Machine 474,89118,INR,True
+PRD00218,LG,Washing Machines,LG Front Load Washing Machine 371,85952,INR,True
+PRD00219,Fossil,Smart Watches,Fossil Sports Smart Watch 209,8764,INR,True
+PRD00220,Razer,Gaming,Razer Gaming Controller 449,40752,INR,True
+PRD00221,Karcher,Vacuum Cleaners,Karcher Cordless Vacuum Cleaner 997,6891,INR,True
+PRD00222,OnePlus,Tablets,OnePlus Professional Tablet 163,103032,INR,True
+PRD00223,Razer,Gaming,Razer Gaming Console 418,75384,INR,True
+PRD00224,Samsung,Mobile Phones,Samsung 5G Smartphone 970,128965,INR,True
+PRD00225,Motorola,Mobile Phones,Motorola Pro Smartphone 956,138646,INR,True
+PRD00226,Eureka,Vacuum Cleaners,Eureka Handheld Vacuum Cleaner 855,32229,INR,True
+PRD00227,Daikin,Air Conditioners,Daikin 1.5 Ton Split AC 565,84871,INR,True
+PRD00228,TCL,TVs,TCL OLED Smart TV 521,177123,INR,True
+PRD00229,Philips,Vacuum Cleaners,Philips Cordless Vacuum Cleaner 792,23104,INR,True
+PRD00230,Whirlpool,Washing Machines,Whirlpool Fully Automatic Washing Machine 841,53018,INR,True
+PRD00231,Lenovo,Laptops,Lenovo Ultrabook Laptop 887,158356,INR,True
+PRD00232,TCL,TVs,TCL Mini LED Smart TV 354,146967,INR,True
+PRD00233,Haier,Refrigerators,Haier Single Door Refrigerator 956,79682,INR,True
+PRD00234,Samsung,Refrigerators,Samsung French Door Refrigerator 393,94946,INR,True
+PRD00235,Apple,Headphones,Apple Wireless Headphones 763,22352,INR,True
+PRD00236,Daikin,Air Conditioners,Daikin Inverter AC 508,44936,INR,True
+PRD00237,Dell,Laptops,Dell Professional Laptop 891,117030,INR,True
+PRD00238,Google,Mobile Phones,Google 5G Smartphone 933,145874,INR,True
+PRD00239,LG,Air Conditioners,LG 1.5 Ton Split AC 892,78736,INR,True
+PRD00240,Samsung,Tablets,Samsung Android Tablet 801,71537,INR,True
+PRD00241,Nintendo,Gaming,Nintendo Gaming Monitor 666,55098,INR,True
+PRD00242,OnePlus,Mobile Phones,OnePlus Flagship Smartphone 978,107617,INR,True
+PRD00243,Godrej,Refrigerators,Godrej Double Door Refrigerator 71,100931,INR,True
+PRD00244,Boat,Headphones,Boat Bluetooth Earbuds 765,16408,INR,True
+PRD00245,Google,Mobile Phones,Google 5G Smartphone 721,174133,INR,True
+PRD00246,Google,Mobile Phones,Google Pro Smartphone 926,86503,INR,True
+PRD00247,HP,Laptops,HP Ultrabook Laptop 301,44711,INR,True
+PRD00248,Whirlpool,Refrigerators,Whirlpool Single Door Refrigerator 251,39080,INR,True
+PRD00249,Fujifilm,Cameras,Fujifilm DSLR Camera 180,64560,INR,True
+PRD00250,Xiaomi,Mobile Phones,Xiaomi Budget Smartphone 700,170453,INR,True
+PRD00251,Apple,Headphones,Apple Premium Earbuds 238,10879,INR,True
+PRD00252,Voltas,Air Conditioners,Voltas Inverter AC 683,58466,INR,True
+PRD00253,ASUS,Laptops,ASUS Ultrabook Laptop 162,173287,INR,True
+PRD00254,Google,Mobile Phones,Google Ultra Smartphone 307,162028,INR,True
+PRD00255,Xiaomi,Tablets,Xiaomi Gaming Tablet 866,69878,INR,True
+PRD00256,Microsoft,Gaming,Microsoft Gaming Mouse 110,66335,INR,True
+PRD00257,Apple,Headphones,Apple Premium Earbuds 589,25024,INR,True
+PRD00258,Nintendo,Gaming,Nintendo Gaming Console 282,54879,INR,True
+PRD00259,Acer,Laptops,Acer Business Laptop 853,160214,INR,True
+PRD00260,Microsoft,Gaming,Microsoft Gaming Monitor 225,49179,INR,True
+PRD00261,Samsung,Tablets,Samsung Gaming Tablet 774,98835,INR,True
+PRD00262,Philips,Vacuum Cleaners,Philips Cordless Vacuum Cleaner 643,64205,INR,True
+PRD00263,Apple,Tablets,Apple Gaming Tablet 452,113364,INR,True
+PRD00264,Acer,Laptops,Acer Ultrabook Laptop 93,64448,INR,True
+PRD00265,Nintendo,Gaming,Nintendo Gaming Mouse 206,26021,INR,True
+PRD00266,OnePlus,TVs,OnePlus QLED Smart TV 514,159159,INR,True
+PRD00267,Microsoft,Gaming,Microsoft Gaming Keyboard 991,66156,INR,True
+PRD00268,Nintendo,Gaming,Nintendo Gaming Console 987,64385,INR,True
+PRD00269,Samsung,Mobile Phones,Samsung Pro Smartphone 991,112179,INR,True
+PRD00270,Sony,Cameras,Sony Mirrorless Camera 405,227272,INR,True
+PRD00271,Lenovo,Laptops,Lenovo Professional Laptop 466,62398,INR,True
+PRD00272,Whirlpool,Refrigerators,Whirlpool Single Door Refrigerator 654,127795,INR,True
+PRD00273,LG,Refrigerators,LG French Door Refrigerator 26,81797,INR,True
+PRD00274,Noise,Smart Watches,Noise GPS Smart Watch 664,31015,INR,True
+PRD00275,Motorola,Mobile Phones,Motorola Budget Smartphone 665,87217,INR,True
+PRD00276,LG,Washing Machines,LG Front Load Washing Machine 969,23943,INR,True
+PRD00277,Lenovo,Laptops,Lenovo Student Laptop 100,60440,INR,True
+PRD00278,Sennheiser,Headphones,Sennheiser Noise Cancelling Headphones 465,26970,INR,True
+PRD00279,Haier,Refrigerators,Haier Single Door Refrigerator 761,96983,INR,True
+PRD00280,Philips,Vacuum Cleaners,Philips Upright Vacuum Cleaner 102,47920,INR,True
+PRD00281,Blue Star,Air Conditioners,Blue Star Inverter AC 34,61666,INR,True
+PRD00282,Eureka,Vacuum Cleaners,Eureka Robot Vacuum Cleaner 456,34057,INR,True
+PRD00283,JBL,Headphones,JBL Wireless Headphones 377,46436,INR,True
+PRD00284,Sony,Cameras,Sony Mirrorless Camera 283,124369,INR,True
+PRD00285,Sony,Headphones,Sony Gaming Headset 679,7507,INR,True
+PRD00286,Boat,Headphones,Boat Premium Earbuds 52,2899,INR,True
+PRD00287,Samsung,Refrigerators,Samsung French Door Refrigerator 579,123150,INR,True
+PRD00288,Sony,Headphones,Sony Premium Earbuds 601,15076,INR,True
+PRD00289,Bose,Headphones,Bose Bluetooth Earbuds 808,11170,INR,True
+PRD00290,Apple,Smart Watches,Apple GPS Smart Watch 134,20964,INR,True
+PRD00291,Sony,Cameras,Sony DSLR Camera 677,48816,INR,True
+PRD00292,Dell,Laptops,Dell Business Laptop 809,123911,INR,True
+PRD00293,Sennheiser,Headphones,Sennheiser Bluetooth Earbuds 179,2534,INR,True
+PRD00294,Sony,Gaming,Sony Gaming Controller 539,58176,INR,True
+PRD00295,Motorola,Mobile Phones,Motorola 5G Smartphone 460,132845,INR,True
+PRD00296,Haier,Refrigerators,Haier Double Door Refrigerator 516,79245,INR,True
+PRD00297,Sennheiser,Headphones,Sennheiser Wireless Headphones 803,49160,INR,True
+PRD00298,OnePlus,Tablets,OnePlus Gaming Tablet 659,70036,INR,True
+PRD00299,HP,Laptops,HP Student Laptop 437,135281,INR,True
+PRD00300,Apple,Tablets,Apple Student Tablet 932,103375,INR,True
+PRD00301,LG,Air Conditioners,LG 1 Ton Split AC 623,67219,INR,True
+PRD00302,Samsung,TVs,Samsung OLED Smart TV 640,92093,INR,True
+PRD00303,OnePlus,Tablets,OnePlus Gaming Tablet 612,59925,INR,True
+PRD00304,Sony,Cameras,Sony Digital Camera 620,152527,INR,True
+PRD00305,LG,Washing Machines,LG Fully Automatic Washing Machine 874,32996,INR,True
+PRD00306,OnePlus,Tablets,OnePlus Professional Tablet 463,66370,INR,True
+PRD00307,Apple,Headphones,Apple Bluetooth Earbuds 409,31220,INR,True
+PRD00308,LG,Washing Machines,LG Top Load Washing Machine 321,73936,INR,True
+PRD00309,Lenovo,Tablets,Lenovo Gaming Tablet 704,30006,INR,True
+PRD00310,LG,Air Conditioners,LG 1 Ton Split AC 96,36188,INR,True
+PRD00311,LG,Washing Machines,LG Fully Automatic Washing Machine 832,66843,INR,True
+PRD00312,OnePlus,TVs,OnePlus 4K Smart TV 980,173738,INR,True
+PRD00313,GoPro,Cameras,GoPro Action Camera 126,195639,INR,True
+PRD00314,Whirlpool,Washing Machines,Whirlpool Fully Automatic Washing Machine 889,73435,INR,True
+PRD00315,Dyson,Vacuum Cleaners,Dyson Handheld Vacuum Cleaner 320,44348,INR,True
+PRD00316,LG,Refrigerators,LG French Door Refrigerator 673,40280,INR,True
+PRD00317,Samsung,Air Conditioners,Samsung 1 Ton Split AC 866,70890,INR,True
+PRD00318,Sony,Cameras,Sony Mirrorless Camera 286,219912,INR,True
+PRD00319,Samsung,Smart Watches,Samsung Sports Smart Watch 998,75526,INR,True
+PRD00320,Noise,Smart Watches,Noise Fitness Smart Watch 30,37054,INR,True
+PRD00321,Sony,TVs,Sony QLED Smart TV 360,109082,INR,True
+PRD00322,Dell,Laptops,Dell Gaming Laptop 674,178457,INR,True
+PRD00323,LG,Washing Machines,LG Front Load Washing Machine 94,22018,INR,True
+PRD00324,Agaro,Vacuum Cleaners,Agaro Robot Vacuum Cleaner 430,29654,INR,True
+PRD00325,Voltas,Air Conditioners,Voltas 1.5 Ton Split AC 320,73503,INR,True
+PRD00326,Eureka,Vacuum Cleaners,Eureka Cordless Vacuum Cleaner 54,62890,INR,True
+PRD00327,LG,TVs,LG Mini LED Smart TV 691,33044,INR,True
+PRD00328,OnePlus,Mobile Phones,OnePlus Budget Smartphone 498,119152,INR,True
+PRD00329,Fossil,Smart Watches,Fossil Sports Smart Watch 221,37804,INR,True
+PRD00330,Canon,Cameras,Canon Action Camera 114,132699,INR,True
+PRD00331,Razer,Gaming,Razer Gaming Mouse 684,72066,INR,True
+PRD00332,Sony,Gaming,Sony Gaming Controller 614,54807,INR,True
+PRD00333,HP,Laptops,HP Gaming Laptop 969,109015,INR,True
+PRD00334,Bose,Headphones,Bose Bluetooth Earbuds 336,20469,INR,True
+PRD00335,Apple,Mobile Phones,Apple Budget Smartphone 180,120893,INR,True
+PRD00336,TCL,TVs,TCL Mini LED Smart TV 236,204463,INR,True
+PRD00337,GoPro,Cameras,GoPro Action Camera 407,38894,INR,True
+PRD00338,Dyson,Vacuum Cleaners,Dyson Upright Vacuum Cleaner 471,6228,INR,True
+PRD00339,OnePlus,Mobile Phones,OnePlus Flagship Smartphone 588,120534,INR,True
+PRD00340,IFB,Washing Machines,IFB Top Load Washing Machine 415,33096,INR,True
+PRD00341,Lenovo,Laptops,Lenovo Gaming Laptop 852,150611,INR,True
+PRD00342,Eureka,Vacuum Cleaners,Eureka Cordless Vacuum Cleaner 865,33620,INR,True
+PRD00343,Samsung,Mobile Phones,Samsung Budget Smartphone 411,162369,INR,True
+PRD00344,Canon,Cameras,Canon Digital Camera 318,248202,INR,True
+PRD00345,Eureka,Vacuum Cleaners,Eureka Robot Vacuum Cleaner 798,26827,INR,True
+PRD00346,Samsung,TVs,Samsung Mini LED Smart TV 117,185996,INR,True
+PRD00347,GoPro,Cameras,GoPro DSLR Camera 358,223483,INR,True
+PRD00348,Samsung,Refrigerators,Samsung French Door Refrigerator 150,33474,INR,True
+PRD00349,Microsoft,Gaming,Microsoft Gaming Controller 779,23036,INR,True
+PRD00350,Apple,Tablets,Apple Professional Tablet 644,111298,INR,True
+PRD00351,Daikin,Air Conditioners,Daikin Inverter AC 659,98989,INR,True
+PRD00352,OnePlus,Tablets,OnePlus Gaming Tablet 324,92210,INR,True
+PRD00353,TCL,TVs,TCL 4K Smart TV 453,142924,INR,True
+PRD00354,Lenovo,Tablets,Lenovo Gaming Tablet 58,87518,INR,True
+PRD00355,Haier,Refrigerators,Haier Double Door Refrigerator 473,60685,INR,True
+PRD00356,LG,Air Conditioners,LG 1 Ton Split AC 852,73331,INR,True
+PRD00357,Sony,Gaming,Sony Gaming Console 394,69462,INR,True
+PRD00358,Blue Star,Air Conditioners,Blue Star 1 Ton Split AC 931,83947,INR,True
+PRD00359,Samsung,Smart Watches,Samsung GPS Smart Watch 514,64341,INR,True
+PRD00360,Samsung,TVs,Samsung LED Smart TV 831,47132,INR,True
+PRD00361,LG,Refrigerators,LG French Door Refrigerator 254,25130,INR,True
+PRD00362,Karcher,Vacuum Cleaners,Karcher Upright Vacuum Cleaner 536,39345,INR,True
+PRD00363,Samsung,Smart Watches,Samsung GPS Smart Watch 940,50870,INR,True
+PRD00364,Logitech,Gaming,Logitech Gaming Mouse 696,47350,INR,True
+PRD00365,Apple,Smart Watches,Apple GPS Smart Watch 338,10639,INR,True
+PRD00366,Xiaomi,Mobile Phones,Xiaomi Budget Smartphone 259,82487,INR,True
+PRD00367,Agaro,Vacuum Cleaners,Agaro Robot Vacuum Cleaner 84,26847,INR,True
+PRD00368,Samsung,Smart Watches,Samsung GPS Smart Watch 991,42662,INR,True
+PRD00369,Xiaomi,Tablets,Xiaomi Professional Tablet 726,87993,INR,True
+PRD00370,OnePlus,Mobile Phones,OnePlus Flagship Smartphone 659,106744,INR,True
+PRD00371,Samsung,Refrigerators,Samsung Double Door Refrigerator 687,104675,INR,True
+PRD00372,Bosch,Washing Machines,Bosch Top Load Washing Machine 372,20389,INR,True
+PRD00373,Microsoft,Gaming,Microsoft Gaming Controller 971,47791,INR,True
+PRD00374,Samsung,Air Conditioners,Samsung 1.5 Ton Split AC 159,43030,INR,True
+PRD00375,OnePlus,Mobile Phones,OnePlus 5G Smartphone 790,141087,INR,True
+PRD00376,GoPro,Cameras,GoPro Mirrorless Camera 345,193520,INR,True
+PRD00377,Samsung,Smart Watches,Samsung Sports Smart Watch 167,22218,INR,True
+PRD00378,Hisense,TVs,Hisense Mini LED Smart TV 925,232085,INR,True
+PRD00379,Hisense,TVs,Hisense LED Smart TV 421,31453,INR,True
+PRD00380,Samsung,Refrigerators,Samsung Single Door Refrigerator 292,100031,INR,True
+PRD00381,Karcher,Vacuum Cleaners,Karcher Robot Vacuum Cleaner 245,39996,INR,True
+PRD00382,Logitech,Gaming,Logitech Gaming Controller 695,51213,INR,True
+PRD00383,Fossil,Smart Watches,Fossil Sports Smart Watch 797,38932,INR,True
+PRD00384,Bosch,Washing Machines,Bosch Fully Automatic Washing Machine 990,72874,INR,True
+PRD00385,LG,TVs,LG Mini LED Smart TV 894,56280,INR,True
+PRD00386,Sony,Gaming,Sony Gaming Mouse 568,51655,INR,True
+PRD00387,Motorola,Mobile Phones,Motorola Flagship Smartphone 292,40683,INR,True
+PRD00388,Samsung,Mobile Phones,Samsung Ultra Smartphone 928,125786,INR,True
+PRD00389,Nikon,Cameras,Nikon Digital Camera 970,44042,INR,True
+PRD00390,Apple,Headphones,Apple Bluetooth Earbuds 425,3247,INR,True
+PRD00391,ASUS,Laptops,ASUS Professional Laptop 242,128031,INR,True
+PRD00392,LG,Washing Machines,LG Top Load Washing Machine 29,47430,INR,True
+PRD00393,LG,Refrigerators,LG Side by Side Refrigerator 150,123727,INR,True
+PRD00394,Samsung,TVs,Samsung QLED Smart TV 484,237517,INR,True
+PRD00395,Philips,Vacuum Cleaners,Philips Upright Vacuum Cleaner 631,34399,INR,True
+PRD00396,HP,Laptops,HP Business Laptop 221,97088,INR,True
+PRD00397,OnePlus,TVs,OnePlus Mini LED Smart TV 434,158352,INR,True
+PRD00398,OnePlus,Mobile Phones,OnePlus Pro Smartphone 125,86944,INR,True
+PRD00399,Dell,Laptops,Dell Student Laptop 65,149829,INR,True
+PRD00400,Google,Mobile Phones,Google Flagship Smartphone 17,148523,INR,True
+PRD00401,OnePlus,Tablets,OnePlus Professional Tablet 148,104181,INR,True
+PRD00402,Logitech,Gaming,Logitech Gaming Console 247,49244,INR,True
+PRD00403,Fossil,Smart Watches,Fossil Premium Smart Watch 537,13221,INR,True
+PRD00404,LG,Refrigerators,LG Double Door Refrigerator 895,71177,INR,True
+PRD00405,LG,Air Conditioners,LG Inverter AC 260,73929,INR,True
+PRD00406,Dyson,Vacuum Cleaners,Dyson Handheld Vacuum Cleaner 70,56676,INR,True
+PRD00407,Samsung,Refrigerators,Samsung Double Door Refrigerator 596,121122,INR,True
+PRD00408,Eureka,Vacuum Cleaners,Eureka Robot Vacuum Cleaner 361,7905,INR,True
+PRD00409,Sony,Cameras,Sony DSLR Camera 798,237680,INR,True
+PRD00410,Xiaomi,Tablets,Xiaomi Student Tablet 187,92802,INR,True
+PRD00411,Samsung,TVs,Samsung LED Smart TV 301,29695,INR,True
+PRD00412,Sony,Headphones,Sony Noise Cancelling Headphones 324,4246,INR,True
+PRD00413,Razer,Gaming,Razer Gaming Mouse 485,74176,INR,True
+PRD00414,Sony,Gaming,Sony Gaming Controller 366,40501,INR,True
+PRD00415,Apple,Laptops,Apple Ultrabook Laptop 128,101622,INR,True
+PRD00416,Godrej,Refrigerators,Godrej Single Door Refrigerator 451,117426,INR,True
+PRD00417,Whirlpool,Washing Machines,Whirlpool Front Load Washing Machine 709,83038,INR,True
+PRD00418,Voltas,Air Conditioners,Voltas 2 Ton Split AC 745,35828,INR,True
+PRD00419,LG,Washing Machines,LG Top Load Washing Machine 559,41652,INR,True
+PRD00420,Nintendo,Gaming,Nintendo Gaming Console 336,13494,INR,True
+PRD00421,Lenovo,Tablets,Lenovo Gaming Tablet 618,68447,INR,True
+PRD00422,Karcher,Vacuum Cleaners,Karcher Robot Vacuum Cleaner 455,50204,INR,True
+PRD00423,Godrej,Refrigerators,Godrej Double Door Refrigerator 891,115265,INR,True
+PRD00424,Haier,Refrigerators,Haier Single Door Refrigerator 655,55986,INR,True
+PRD00425,HP,Laptops,HP Student Laptop 526,125239,INR,True
+PRD00426,Philips,Vacuum Cleaners,Philips Cordless Vacuum Cleaner 870,14357,INR,True
+PRD00427,Fossil,Smart Watches,Fossil Fitness Smart Watch 69,18545,INR,True
+PRD00428,Boat,Headphones,Boat Bluetooth Earbuds 393,25233,INR,True
+PRD00429,Apple,Smart Watches,Apple Premium Smart Watch 972,60972,INR,True
+PRD00430,Whirlpool,Refrigerators,Whirlpool Single Door Refrigerator 79,120019,INR,True
+PRD00431,Samsung,Smart Watches,Samsung GPS Smart Watch 322,54171,INR,True
+PRD00432,Lenovo,Tablets,Lenovo Professional Tablet 27,24869,INR,True
+PRD00433,Philips,Vacuum Cleaners,Philips Upright Vacuum Cleaner 397,38930,INR,True
+PRD00434,Canon,Cameras,Canon Action Camera 267,223152,INR,True
+PRD00435,Karcher,Vacuum Cleaners,Karcher Robot Vacuum Cleaner 293,45099,INR,True
+PRD00436,Karcher,Vacuum Cleaners,Karcher Robot Vacuum Cleaner 139,13037,INR,True
+PRD00437,Google,Mobile Phones,Google Pro Smartphone 90,124683,INR,True
+PRD00438,Lenovo,Tablets,Lenovo Gaming Tablet 67,103000,INR,True
+PRD00439,GoPro,Cameras,GoPro Action Camera 872,98631,INR,True
+PRD00440,Hisense,TVs,Hisense OLED Smart TV 371,228062,INR,True
+PRD00441,Nikon,Cameras,Nikon Mirrorless Camera 812,72685,INR,True
+PRD00442,LG,TVs,LG LED Smart TV 370,26890,INR,True
+PRD00443,GoPro,Cameras,GoPro Action Camera 823,142527,INR,True
+PRD00444,Nikon,Cameras,Nikon Mirrorless Camera 317,37235,INR,True
+PRD00445,IFB,Washing Machines,IFB Fully Automatic Washing Machine 788,71843,INR,True
+PRD00446,Bosch,Washing Machines,Bosch Front Load Washing Machine 996,34426,INR,True
+PRD00447,LG,Refrigerators,LG Single Door Refrigerator 697,81057,INR,True
+PRD00448,Sony,Cameras,Sony DSLR Camera 799,237331,INR,True
+PRD00449,GoPro,Cameras,GoPro DSLR Camera 990,221269,INR,True
+PRD00450,TCL,TVs,TCL Mini LED Smart TV 57,247596,INR,True
+PRD00451,Xiaomi,Mobile Phones,Xiaomi Pro Smartphone 169,87724,INR,True
+PRD00452,Sony,TVs,Sony OLED Smart TV 971,110707,INR,True
+PRD00453,Sony,Cameras,Sony Mirrorless Camera 202,85694,INR,True
+PRD00454,OnePlus,Tablets,OnePlus Gaming Tablet 641,26406,INR,True
+PRD00455,Razer,Gaming,Razer Gaming Monitor 515,15245,INR,True
+PRD00456,Samsung,Tablets,Samsung Professional Tablet 675,32439,INR,True
+PRD00457,Noise,Smart Watches,Noise GPS Smart Watch 43,75874,INR,True
+PRD00458,HP,Laptops,HP Business Laptop 667,99377,INR,True
+PRD00459,Sennheiser,Headphones,Sennheiser Gaming Headset 655,42008,INR,True
+PRD00460,ASUS,Laptops,ASUS Professional Laptop 658,105935,INR,True
+PRD00461,Logitech,Gaming,Logitech Gaming Controller 305,56227,INR,True
+PRD00462,LG,Air Conditioners,LG 1 Ton Split AC 451,45719,INR,True
+PRD00463,IFB,Washing Machines,IFB Top Load Washing Machine 349,44741,INR,True
+PRD00464,Samsung,Smart Watches,Samsung GPS Smart Watch 752,43853,INR,True
+PRD00465,Godrej,Refrigerators,Godrej French Door Refrigerator 380,119701,INR,True
+PRD00466,GoPro,Cameras,GoPro Mirrorless Camera 248,103654,INR,True
+PRD00467,LG,Air Conditioners,LG 2 Ton Split AC 254,83929,INR,True
+PRD00468,Samsung,TVs,Samsung 4K Smart TV 969,96077,INR,True
+PRD00469,Bosch,Washing Machines,Bosch Top Load Washing Machine 986,50541,INR,True
+PRD00470,Sony,TVs,Sony Mini LED Smart TV 321,209039,INR,True
+PRD00471,Bose,Headphones,Bose Gaming Headset 479,35233,INR,True
+PRD00472,Voltas,Air Conditioners,Voltas Inverter AC 93,28037,INR,True
+PRD00473,Bosch,Washing Machines,Bosch Top Load Washing Machine 221,49552,INR,True
+PRD00474,Garmin,Smart Watches,Garmin Fitness Smart Watch 289,8624,INR,True
+PRD00475,Blue Star,Air Conditioners,Blue Star Inverter AC 550,62453,INR,True
+PRD00476,HP,Laptops,HP Student Laptop 904,65110,INR,True
+PRD00477,Nintendo,Gaming,Nintendo Gaming Mouse 47,50964,INR,True
+PRD00478,LG,Washing Machines,LG Fully Automatic Washing Machine 372,43513,INR,True
+PRD00479,Sony,Cameras,Sony Mirrorless Camera 517,121279,INR,True
+PRD00480,Blue Star,Air Conditioners,Blue Star 2 Ton Split AC 132,40572,INR,True
+PRD00481,Google,Mobile Phones,Google Ultra Smartphone 572,96889,INR,True
+PRD00482,Samsung,Refrigerators,Samsung French Door Refrigerator 522,98966,INR,True
+PRD00483,Bosch,Washing Machines,Bosch Front Load Washing Machine 40,23938,INR,True
+PRD00484,Hisense,TVs,Hisense QLED Smart TV 486,230754,INR,True
+PRD00485,Fujifilm,Cameras,Fujifilm DSLR Camera 915,178927,INR,True
+PRD00486,Nikon,Cameras,Nikon Action Camera 327,180712,INR,True
+PRD00487,TCL,TVs,TCL Mini LED Smart TV 863,213808,INR,True
+PRD00488,Razer,Gaming,Razer Gaming Keyboard 849,69494,INR,True
+PRD00489,GoPro,Cameras,GoPro Digital Camera 577,205791,INR,True
+PRD00490,Logitech,Gaming,Logitech Gaming Console 340,51281,INR,True
+PRD00491,Apple,Tablets,Apple Student Tablet 316,86507,INR,True
+PRD00492,Dyson,Vacuum Cleaners,Dyson Upright Vacuum Cleaner 991,22401,INR,True
+PRD00493,OnePlus,Tablets,OnePlus Professional Tablet 53,104555,INR,True
+PRD00494,Fossil,Smart Watches,Fossil Premium Smart Watch 645,70712,INR,True
+PRD00495,Agaro,Vacuum Cleaners,Agaro Upright Vacuum Cleaner 842,14684,INR,True
+PRD00496,Samsung,Tablets,Samsung Android Tablet 971,85047,INR,True
+PRD00497,Dyson,Vacuum Cleaners,Dyson Robot Vacuum Cleaner 452,6241,INR,True
+PRD00498,Godrej,Refrigerators,Godrej French Door Refrigerator 708,74127,INR,True
+PRD00499,Apple,Headphones,Apple Premium Earbuds 943,41573,INR,True
+PRD00500,LG,Air Conditioners,LG 1.5 Ton Split AC 213,92984,INR,True
+PRD00501,Sony,Cameras,Sony Digital Camera 386,157750,INR,True
+PRD00502,Samsung,Refrigerators,Samsung Single Door Refrigerator 546,139553,INR,True
+PRD00503,Haier,Refrigerators,Haier Side by Side Refrigerator 791,108587,INR,True
+PRD00504,Eureka,Vacuum Cleaners,Eureka Upright Vacuum Cleaner 981,17600,INR,True
+PRD00505,JBL,Headphones,JBL Premium Earbuds 231,21062,INR,True
+PRD00506,Nintendo,Gaming,Nintendo Gaming Controller 325,67094,INR,True
+PRD00507,Voltas,Air Conditioners,Voltas 2 Ton Split AC 125,62721,INR,True
+PRD00508,Noise,Smart Watches,Noise Sports Smart Watch 839,53712,INR,True
+PRD00509,Samsung,Refrigerators,Samsung Side by Side Refrigerator 295,25513,INR,True
+PRD00510,Dyson,Vacuum Cleaners,Dyson Handheld Vacuum Cleaner 453,65555,INR,True
+PRD00511,Lenovo,Tablets,Lenovo Student Tablet 207,38047,INR,True
+PRD00512,Sony,Cameras,Sony Action Camera 112,55985,INR,True
+PRD00513,Noise,Smart Watches,Noise Premium Smart Watch 52,33779,INR,True
+PRD00514,OnePlus,Tablets,OnePlus Professional Tablet 239,93616,INR,True
+PRD00515,HP,Laptops,HP Student Laptop 735,116584,INR,True
+PRD00516,LG,Air Conditioners,LG 1.5 Ton Split AC 988,25679,INR,True
+PRD00517,Nikon,Cameras,Nikon Digital Camera 958,191151,INR,True
+PRD00518,Daikin,Air Conditioners,Daikin 1.5 Ton Split AC 329,62649,INR,True
+PRD00519,Sony,Gaming,Sony Gaming Console 238,78252,INR,True
+PRD00520,Canon,Cameras,Canon DSLR Camera 904,129546,INR,True
+PRD00521,Samsung,TVs,Samsung LED Smart TV 508,226559,INR,True
+PRD00522,Hisense,TVs,Hisense QLED Smart TV 39,249832,INR,True
+PRD00523,Lenovo,Laptops,Lenovo Professional Laptop 951,58128,INR,True
+PRD00524,Whirlpool,Refrigerators,Whirlpool Single Door Refrigerator 657,149643,INR,True
+PRD00525,GoPro,Cameras,GoPro Digital Camera 872,55179,INR,True
+PRD00526,Fujifilm,Cameras,Fujifilm Action Camera 829,70544,INR,True
+PRD00527,OnePlus,Mobile Phones,OnePlus Pro Smartphone 664,128301,INR,True
+PRD00528,Microsoft,Gaming,Microsoft Gaming Console 810,47185,INR,True
+PRD00529,Razer,Gaming,Razer Gaming Controller 626,26002,INR,True
+PRD00530,Xiaomi,Tablets,Xiaomi Student Tablet 336,77538,INR,True
+PRD00531,Google,Mobile Phones,Google 5G Smartphone 144,56439,INR,True
+PRD00532,Voltas,Air Conditioners,Voltas 1.5 Ton Split AC 268,25895,INR,True
+PRD00533,Samsung,Washing Machines,Samsung Top Load Washing Machine 977,52995,INR,True
+PRD00534,Whirlpool,Refrigerators,Whirlpool Double Door Refrigerator 670,54282,INR,True
+PRD00535,Samsung,Refrigerators,Samsung Double Door Refrigerator 122,107528,INR,True
+PRD00536,Voltas,Air Conditioners,Voltas 1.5 Ton Split AC 703,78138,INR,True
+PRD00537,Sony,Cameras,Sony Mirrorless Camera 939,187434,INR,True
+PRD00538,Nintendo,Gaming,Nintendo Gaming Monitor 225,31947,INR,True
+PRD00539,TCL,TVs,TCL OLED Smart TV 766,139269,INR,True
+PRD00540,Garmin,Smart Watches,Garmin Sports Smart Watch 935,73989,INR,True
+PRD00541,Blue Star,Air Conditioners,Blue Star 1.5 Ton Split AC 697,57435,INR,True
+PRD00542,Apple,Smart Watches,Apple Sports Smart Watch 721,71228,INR,True
+PRD00543,LG,Refrigerators,LG Double Door Refrigerator 849,28094,INR,True
+PRD00544,GoPro,Cameras,GoPro DSLR Camera 550,170130,INR,True
+PRD00545,LG,TVs,LG QLED Smart TV 533,243998,INR,True
+PRD00546,LG,Air Conditioners,LG 1.5 Ton Split AC 94,89071,INR,True
+PRD00547,Fujifilm,Cameras,Fujifilm Mirrorless Camera 136,138864,INR,True
+PRD00548,Fujifilm,Cameras,Fujifilm Digital Camera 60,167825,INR,True
+PRD00549,Fujifilm,Cameras,Fujifilm Action Camera 23,209603,INR,True
+PRD00550,Whirlpool,Washing Machines,Whirlpool Front Load Washing Machine 593,46560,INR,True
+PRD00551,Apple,Mobile Phones,Apple Budget Smartphone 718,98316,INR,True
+PRD00552,Xiaomi,Mobile Phones,Xiaomi 5G Smartphone 957,26092,INR,True
+PRD00553,LG,Air Conditioners,LG 2 Ton Split AC 185,78591,INR,True
+PRD00554,Hisense,TVs,Hisense LED Smart TV 913,118162,INR,True
+PRD00555,IFB,Washing Machines,IFB Top Load Washing Machine 83,67236,INR,True
+PRD00556,OnePlus,Tablets,OnePlus Professional Tablet 881,95660,INR,True
+PRD00557,LG,Refrigerators,LG French Door Refrigerator 403,90419,INR,True
+PRD00558,Nikon,Cameras,Nikon DSLR Camera 4,238843,INR,True
+PRD00559,Lenovo,Laptops,Lenovo Student Laptop 435,172723,INR,True
+PRD00560,Fujifilm,Cameras,Fujifilm DSLR Camera 472,84883,INR,True
+PRD00561,Samsung,Refrigerators,Samsung Side by Side Refrigerator 960,44704,INR,True
+PRD00562,Dyson,Vacuum Cleaners,Dyson Cordless Vacuum Cleaner 677,58049,INR,True
+PRD00563,Bosch,Washing Machines,Bosch Front Load Washing Machine 212,49544,INR,True
+PRD00564,Apple,Mobile Phones,Apple Flagship Smartphone 458,16801,INR,True
+PRD00565,Apple,Smart Watches,Apple Premium Smart Watch 412,7798,INR,True
+PRD00566,Samsung,Air Conditioners,Samsung 1.5 Ton Split AC 144,32398,INR,True
+PRD00567,Sony,Cameras,Sony DSLR Camera 939,233853,INR,True
+PRD00568,Agaro,Vacuum Cleaners,Agaro Handheld Vacuum Cleaner 613,42845,INR,True
+PRD00569,Lenovo,Tablets,Lenovo Professional Tablet 898,49552,INR,True
+PRD00570,Hisense,TVs,Hisense Mini LED Smart TV 424,77945,INR,True
+PRD00571,Nintendo,Gaming,Nintendo Gaming Console 972,75970,INR,True
+PRD00572,Samsung,Smart Watches,Samsung Sports Smart Watch 508,74856,INR,True
+PRD00573,Lenovo,Laptops,Lenovo Student Laptop 327,167484,INR,True
+PRD00574,Karcher,Vacuum Cleaners,Karcher Upright Vacuum Cleaner 308,14779,INR,True
+PRD00575,Samsung,Washing Machines,Samsung Fully Automatic Washing Machine 247,80065,INR,True
+PRD00576,JBL,Headphones,JBL Noise Cancelling Headphones 937,31844,INR,True
+PRD00577,Acer,Laptops,Acer Student Laptop 571,139185,INR,True
+PRD00578,Nikon,Cameras,Nikon Digital Camera 262,83663,INR,True
+PRD00579,JBL,Headphones,JBL Wireless Headphones 868,30977,INR,True
+PRD00580,LG,Refrigerators,LG French Door Refrigerator 275,26755,INR,True
+PRD00581,Bosch,Washing Machines,Bosch Fully Automatic Washing Machine 895,23183,INR,True
+PRD00582,Samsung,Mobile Phones,Samsung Flagship Smartphone 223,154499,INR,True
+PRD00583,Samsung,Air Conditioners,Samsung 2 Ton Split AC 980,64739,INR,True
+PRD00584,Dell,Laptops,Dell Gaming Laptop 765,60753,INR,True
+PRD00585,Samsung,Air Conditioners,Samsung 1.5 Ton Split AC 938,76987,INR,True
+PRD00586,Sennheiser,Headphones,Sennheiser Bluetooth Earbuds 390,20050,INR,True
+PRD00587,Blue Star,Air Conditioners,Blue Star 2 Ton Split AC 268,65425,INR,True
+PRD00588,Haier,Refrigerators,Haier Single Door Refrigerator 101,81080,INR,True
+PRD00589,Karcher,Vacuum Cleaners,Karcher Handheld Vacuum Cleaner 209,64921,INR,True
+PRD00590,Whirlpool,Refrigerators,Whirlpool Single Door Refrigerator 577,25992,INR,True
+PRD00591,Boat,Headphones,Boat Noise Cancelling Headphones 268,2562,INR,True
+PRD00592,GoPro,Cameras,GoPro Digital Camera 157,97382,INR,True
+PRD00593,JBL,Headphones,JBL Noise Cancelling Headphones 584,26393,INR,True
+PRD00594,Apple,Headphones,Apple Premium Earbuds 967,44400,INR,True
+PRD00595,Lenovo,Tablets,Lenovo Gaming Tablet 842,110055,INR,True
+PRD00596,Daikin,Air Conditioners,Daikin Inverter AC 751,47050,INR,True
+PRD00597,Samsung,Refrigerators,Samsung French Door Refrigerator 560,114412,INR,True
+PRD00598,Samsung,Air Conditioners,Samsung 1 Ton Split AC 35,93674,INR,True
+PRD00599,Motorola,Mobile Phones,Motorola 5G Smartphone 423,9673,INR,True
+PRD00600,Hisense,TVs,Hisense OLED Smart TV 725,37817,INR,True

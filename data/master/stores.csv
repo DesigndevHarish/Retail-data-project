@@ -1,0 +1,101 @@
+store_id,store_name,city,state,country,store_type
+STR0001,Retail Store 001,Delhi,Delhi,India,LARGE
+STR0002,Retail Store 002,Noida,Uttar Pradesh,India,EXPRESS
+STR0003,Retail Store 003,Visakhapatnam,Andhra Pradesh,India,MEDIUM
+STR0004,Retail Store 004,Pune,Maharashtra,India,EXPRESS
+STR0005,Retail Store 005,Kochi,Kerala,India,EXPRESS
+STR0006,Retail Store 006,Jaipur,Rajasthan,India,MEDIUM
+STR0007,Retail Store 007,Thiruvananthapuram,Kerala,India,MEDIUM
+STR0008,Retail Store 008,Mumbai,Maharashtra,India,LARGE
+STR0009,Retail Store 009,Ahmedabad,Gujarat,India,EXPRESS
+STR0010,Retail Store 010,Hyderabad,Telangana,India,LARGE
+STR0011,Retail Store 011,Mumbai,Maharashtra,India,EXPRESS
+STR0012,Retail Store 012,Indore,Madhya Pradesh,India,MEDIUM
+STR0013,Retail Store 013,Ahmedabad,Gujarat,India,MEDIUM
+STR0014,Retail Store 014,Mumbai,Maharashtra,India,EXPRESS
+STR0015,Retail Store 015,Bhopal,Madhya Pradesh,India,EXPRESS
+STR0016,Retail Store 016,Hyderabad,Telangana,India,LARGE
+STR0017,Retail Store 017,Nashik,Maharashtra,India,LARGE
+STR0018,Retail Store 018,Kolkata,West Bengal,India,LARGE
+STR0019,Retail Store 019,Lucknow,Uttar Pradesh,India,LARGE
+STR0020,Retail Store 020,Jaipur,Rajasthan,India,EXPRESS
+STR0021,Retail Store 021,Bengaluru,Karnataka,India,MEDIUM
+STR0022,Retail Store 022,Bengaluru,Karnataka,India,MEDIUM
+STR0023,Retail Store 023,Nagpur,Maharashtra,India,MEDIUM
+STR0024,Retail Store 024,Madurai,Tamil Nadu,India,MEDIUM
+STR0025,Retail Store 025,Surat,Gujarat,India,LARGE
+STR0026,Retail Store 026,Bhopal,Madhya Pradesh,India,LARGE
+STR0027,Retail Store 027,Mysuru,Karnataka,India,EXPRESS
+STR0028,Retail Store 028,Nagpur,Maharashtra,India,EXPRESS
+STR0029,Retail Store 029,Kochi,Kerala,India,LARGE
+STR0030,Retail Store 030,Nagpur,Maharashtra,India,MEDIUM
+STR0031,Retail Store 031,Madurai,Tamil Nadu,India,MEDIUM
+STR0032,Retail Store 032,Ahmedabad,Gujarat,India,MEDIUM
+STR0033,Retail Store 033,Pune,Maharashtra,India,EXPRESS
+STR0034,Retail Store 034,Mumbai,Maharashtra,India,EXPRESS
+STR0035,Retail Store 035,Gurugram,Haryana,India,LARGE
+STR0036,Retail Store 036,Vijayawada,Andhra Pradesh,India,MEDIUM
+STR0037,Retail Store 037,Kochi,Kerala,India,MEDIUM
+STR0038,Retail Store 038,Surat,Gujarat,India,LARGE
+STR0039,Retail Store 039,Kolkata,West Bengal,India,LARGE
+STR0040,Retail Store 040,Lucknow,Uttar Pradesh,India,LARGE
+STR0041,Retail Store 041,Bhopal,Madhya Pradesh,India,EXPRESS
+STR0042,Retail Store 042,Vijayawada,Andhra Pradesh,India,MEDIUM
+STR0043,Retail Store 043,Pune,Maharashtra,India,LARGE
+STR0044,Retail Store 044,Thiruvananthapuram,Kerala,India,MEDIUM
+STR0045,Retail Store 045,Ahmedabad,Gujarat,India,EXPRESS
+STR0046,Retail Store 046,Thiruvananthapuram,Kerala,India,LARGE
+STR0047,Retail Store 047,Gurugram,Haryana,India,MEDIUM
+STR0048,Retail Store 048,Mumbai,Maharashtra,India,LARGE
+STR0049,Retail Store 049,Surat,Gujarat,India,LARGE
+STR0050,Retail Store 050,Bhubaneswar,Odisha,India,EXPRESS
+STR0051,Retail Store 051,Madurai,Tamil Nadu,India,LARGE
+STR0052,Retail Store 052,Mysuru,Karnataka,India,LARGE
+STR0053,Retail Store 053,Surat,Gujarat,India,LARGE
+STR0054,Retail Store 054,Surat,Gujarat,India,MEDIUM
+STR0055,Retail Store 055,Thiruvananthapuram,Kerala,India,EXPRESS
+STR0056,Retail Store 056,Chennai,Tamil Nadu,India,MEDIUM
+STR0057,Retail Store 057,Bhubaneswar,Odisha,India,EXPRESS
+STR0058,Retail Store 058,Delhi,Delhi,India,EXPRESS
+STR0059,Retail Store 059,Indore,Madhya Pradesh,India,LARGE
+STR0060,Retail Store 060,Kolkata,West Bengal,India,EXPRESS
+STR0061,Retail Store 061,Coimbatore,Tamil Nadu,India,LARGE
+STR0062,Retail Store 062,Nashik,Maharashtra,India,MEDIUM
+STR0063,Retail Store 063,Lucknow,Uttar Pradesh,India,LARGE
+STR0064,Retail Store 064,Chennai,Tamil Nadu,India,EXPRESS
+STR0065,Retail Store 065,Bhubaneswar,Odisha,India,EXPRESS
+STR0066,Retail Store 066,Jaipur,Rajasthan,India,MEDIUM
+STR0067,Retail Store 067,Bhubaneswar,Odisha,India,MEDIUM
+STR0068,Retail Store 068,Mumbai,Maharashtra,India,EXPRESS
+STR0069,Retail Store 069,Bengaluru,Karnataka,India,MEDIUM
+STR0070,Retail Store 070,Vijayawada,Andhra Pradesh,India,LARGE
+STR0071,Retail Store 071,Coimbatore,Tamil Nadu,India,EXPRESS
+STR0072,Retail Store 072,Madurai,Tamil Nadu,India,MEDIUM
+STR0073,Retail Store 073,Gurugram,Haryana,India,EXPRESS
+STR0074,Retail Store 074,Surat,Gujarat,India,EXPRESS
+STR0075,Retail Store 075,Madurai,Tamil Nadu,India,LARGE
+STR0076,Retail Store 076,Bhubaneswar,Odisha,India,EXPRESS
+STR0077,Retail Store 077,Mysuru,Karnataka,India,LARGE
+STR0078,Retail Store 078,Bhopal,Madhya Pradesh,India,LARGE
+STR0079,Retail Store 079,Nagpur,Maharashtra,India,MEDIUM
+STR0080,Retail Store 080,Delhi,Delhi,India,MEDIUM
+STR0081,Retail Store 081,Bhopal,Madhya Pradesh,India,EXPRESS
+STR0082,Retail Store 082,Delhi,Delhi,India,EXPRESS
+STR0083,Retail Store 083,Madurai,Tamil Nadu,India,MEDIUM
+STR0084,Retail Store 084,Coimbatore,Tamil Nadu,India,LARGE
+STR0085,Retail Store 085,Nagpur,Maharashtra,India,LARGE
+STR0086,Retail Store 086,Mysuru,Karnataka,India,MEDIUM
+STR0087,Retail Store 087,Coimbatore,Tamil Nadu,India,MEDIUM
+STR0088,Retail Store 088,Nashik,Maharashtra,India,LARGE
+STR0089,Retail Store 089,Nagpur,Maharashtra,India,LARGE
+STR0090,Retail Store 090,Hyderabad,Telangana,India,MEDIUM
+STR0091,Retail Store 091,Ahmedabad,Gujarat,India,EXPRESS
+STR0092,Retail Store 092,Kolkata,West Bengal,India,MEDIUM
+STR0093,Retail Store 093,Nashik,Maharashtra,India,LARGE
+STR0094,Retail Store 094,Nagpur,Maharashtra,India,MEDIUM
+STR0095,Retail Store 095,Ahmedabad,Gujarat,India,LARGE
+STR0096,Retail Store 096,Jaipur,Rajasthan,India,EXPRESS
+STR0097,Retail Store 097,Chandigarh,Chandigarh,India,MEDIUM
+STR0098,Retail Store 098,Madurai,Tamil Nadu,India,LARGE
+STR0099,Retail Store 099,Mysuru,Karnataka,India,MEDIUM
+STR0100,Retail Store 100,Madurai,Tamil Nadu,India,LARGE

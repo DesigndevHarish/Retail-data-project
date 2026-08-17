@@ -1,0 +1,120 @@
+# ============================================================
+# Python
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# ============================================================
+# Environment & Secrets
+# ============================================================
+
+.env
+.env.*
+!.env.example
+
+# AWS credentials
+.aws/
+credentials
+config
+
+# Snowflake credentials / connection files
+connections.toml
+*.pem
+*.p8
+*.key
+
+# Private keys
+*.private
+*.secret
+
+# ============================================================
+# Jupyter
+# ============================================================
+
+.ipynb_checkpoints/
+
+# ============================================================
+# IDE / VS Code
+# ============================================================
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+.idea/
+
+# ============================================================
+# OS Files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================================
+# Logs
+# ============================================================
+
+*.log
+logs/
+
+# ============================================================
+# Generated Data
+# ============================================================
+
+# Local generated datasets
+data/raw/
+data/processed/
+
+# Generated historical data
+data/historical/
+
+# Generated streaming output
+data/streaming/
+
+# Temporary files
+tmp/
+temp/
+
+# ============================================================
+# dbt
+# ============================================================
+
+# dbt generated files
+target/
+dbt_packages/
+logs/
+
+# dbt local environment
+profiles.yml
+
+# ============================================================
+# Snowflake / CLI local files
+# ============================================================
+
+.snowflake/
+
+# ============================================================
+# Secrets / Credentials
+# ============================================================
+
+*.json.secret
+secrets/
+credentials/
+
