@@ -385,12 +385,15 @@ def create_event(
         },
 
         "customer": {
-            "customer_id": customer["customer_id"]
-            if customer else None,
+   	 "customer_id": customer["customer_id"]
+    	 if customer else None,
 
-            "customer_segment": customer["customer_segment"]
-            if customer else None,
-        },
+    	"customer_city": customer["city"]
+    	if customer else None,
+
+    	"customer_segment": customer["customer_segment"]
+    	if customer else None,
+	},
 
         "inventory": {
             "previous_quantity": previous_quantity,

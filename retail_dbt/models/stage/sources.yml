@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: E_COM_S3
+    schema: BRONZE
+
+    tables:
+      - name: BRONZE_RETAIL_EVENTS
