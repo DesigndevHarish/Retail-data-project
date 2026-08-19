@@ -18,6 +18,10 @@ staged_data as
         event_data:customer.customer_segment::varchar as customer_segment,
 
         event_data:product.product_id::varchar  as product_id,
+        case
+         when product_id is null then 'UNKNOWN_PRODUCT'
+         else  'KNOWN_PRODUCT'
+        end as product_flag,
         event_data:product.product_name::varchar  as product_name,
         event_data:product.brand::varchar  as product_brand,
         event_data:product.category::varchar  as product_category,
@@ -41,6 +45,7 @@ staged_data as
 
         Source_file_name,
         Load_timestamp
+        
 
         from source_data
 

@@ -13,9 +13,9 @@ SELECT
 
 FROM {{ ref("stg_retail_events") }}
 
-WHERE product_id IS NOT NULL
+where product_id is not null
 
 QUALIFY ROW_NUMBER() OVER (
-    PARTITION BY product_id
+    PARTITION BY product_id,product_name,product_brand
     ORDER BY event_timestamp DESC
 ) = 1
