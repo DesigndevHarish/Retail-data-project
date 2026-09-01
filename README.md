@@ -285,7 +285,7 @@ Key metrics:
 
 ---
 
-## 2. Product & Inventory Dashboard
+## 2. Product Performance Dashboard
 
 Answers:
 
@@ -303,7 +303,7 @@ Analysis includes:
 
 ---
 
-## 3. Store Performance Dashboard
+## 3. Inventory & Store Performance Dashboard
 
 Answers:
 
